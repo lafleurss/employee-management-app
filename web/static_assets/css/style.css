@@ -95,7 +95,7 @@ th {
   border: 1px solid #dddddd;
   text-align: left;
   padding: 8px;
-  color: var(--tertiary-color);
+  color: #ff7f50;
   background-color: #ffffff;
 }
 
@@ -118,7 +118,7 @@ li {
 li a {
   display: block;
   color: white;
-  background-color: var(--primary-color);;
+  background-color: var(--primary-color);
   text-align: center;
   padding: 14px 16px;
   text-decoration: none;
